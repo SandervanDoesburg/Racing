@@ -1,2 +1,4 @@
-### Het spel
-Het doel van het spel is om zoveel mogelijk spelers te doden door middel van allerlei diverse wapens.
+*Temporary placeholder*
+
+### Game concept
+Explaination about the vision of the game and the game itself...
